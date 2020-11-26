@@ -1,0 +1,4 @@
+# Ignore some Python stuff
+__pychache__
+*.pyc
+
